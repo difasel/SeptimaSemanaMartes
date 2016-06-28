@@ -1,0 +1,47 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+.top-nav {
+  margin-top: 0;
+  width: 768px;
+}
+
+.content{
+  margin-top: 70px;
+}
+
+nav {
+  display: inline-block;
+  background-color: black;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  line-height: 0;
+}
+
+#barra {
+  width: 768px;
+  margin: 0 auto;
+}
+  
+ul {
+  display: inline;
+}
+
+li {
+  list-style: none;
+  padding: 1em;
+  padding-top: 23px;
+  float: right;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+#logo {
+  line-height: 0;
+}
